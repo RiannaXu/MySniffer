@@ -33,18 +33,18 @@ MySniffer是一个基于Winpcap开发的以太网上的数据包嗅探工具，�
 
 - **选择网卡**
 
-  ![nicInfo](.\screeshot\nicInfo.png)
+  ![nicInfo](./screeshot/nicInfo.png)
 
 - **捕获并分析数据包**
 
-  ![MainWiondow](.\screeshot\MainWiondow.png)
+  ![MainWiondow](./screeshot/MainWiondow.png)
 
 - **统计数据包数量**
 
-  ![countPackt](.\screeshot\countPackt.png)
+  ![countPackt](./screeshot/countPackt.png)
 
 - **相关内容**
 
-  ![help](.\screeshot\help.png)
+  ![help](./screeshot/help.png)
 
-  ![moreInfo](.\screeshot\moreInfo.png)
+  ![moreInfo](./screeshot/moreInfo.png)
